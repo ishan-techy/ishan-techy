@@ -1,5 +1,6 @@
 [![MasterHead](https://www.intelegain.com/wp-content/uploads/2019/08/1_OF0xEMkWBv-69zvmNs6RDQ.gif)](ishantechy.in)
 <h1 align="center">Hi 👋, I'm Ishan</h1>
+<!-- ## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> -->
 <h3 align="center">Full Stack Web Developer | Competitive Coder | Blockchain Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/c0/c05e0a986df727559354c449602105d0.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishan-techy&label=Profile%20views&color=0e75b6&style=flat" alt="ishan-techy" /> </p>
